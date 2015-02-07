@@ -1,0 +1,30 @@
+{
+  "name": "express-app-set-nested",
+  "version": "0.0.0",
+  "description": "Provides your express application a version of app.set that handled dot-nested notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmactough/express-app-set-nested.git"
+  },
+  "keywords": [
+    "express",
+    "nested"
+  ],
+  "author": "Dan MacTough <danmactough@gmail.com> (http://yabfog.com/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/danmactough/express-app-set-nested/issues"
+  },
+  "homepage": "https://github.com/danmactough/express-app-set-nested",
+  "dependencies": {
+    "nested-objects": "0.0.2"
+  },
+  "devDependencies": {
+    "express": "~4.11.2",
+    "mocha": "~2.1.0"
+  }
+}
