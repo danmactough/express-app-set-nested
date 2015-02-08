@@ -1,6 +1,6 @@
 {
   "name": "express-app-set-nested",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides your express application a version of app.set that handles dot-nested notation",
   "main": "index.js",
   "scripts": {
