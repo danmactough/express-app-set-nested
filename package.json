@@ -24,7 +24,7 @@
     "nested-objects": "0.0.2"
   },
   "devDependencies": {
-    "express": "~4.11.2",
-    "mocha": "~2.1.0"
+    "express": "~4.14.0",
+    "mocha": "~3.2.0"
   }
 }
